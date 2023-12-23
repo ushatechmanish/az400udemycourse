@@ -1,2 +1,2 @@
 This is fileB.
-Let's make a change. 
+Let's make a merge test change. 
