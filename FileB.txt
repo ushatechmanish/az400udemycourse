@@ -1,2 +1,3 @@
 This is fileB.
 Let's make a merge test change. 
+This is for squash merge.
